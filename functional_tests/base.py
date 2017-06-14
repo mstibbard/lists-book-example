@@ -5,7 +5,7 @@ import os
 import time
 
 
-MAX_WAIT = 10
+MAX_WAIT = 5
 
 
 class FunctionalTest(StaticLiveServerTestCase):
